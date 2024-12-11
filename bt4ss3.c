@@ -18,7 +18,7 @@ int main()
     printf("nhap diem toan");
     scanf("%f",&t);
     printf("diem tong 3 mon là: %.2f\n",a+v+t);
-     printf("diem trung binh 3 mon là: %.2f\n",(a+v+t)/2);
+     printf("diem trung binh 3 mon là: %.2f\n",(a+v+t)/3);
 
 
     return 0;
